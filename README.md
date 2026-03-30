@@ -1,8 +1,6 @@
 # git-branches-cleaner
 Git Repo Update and Branch Cleanup tool
 
-Git Repo Update & Branch Cleanup Tool
-
 ## Usage: ./update-and-clean-branches.sh /path/to/projects
 
 ## Workflow:
